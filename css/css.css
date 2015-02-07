@@ -1,0 +1,46 @@
+td { font-family:  Verdana, Arial, Tahoma, Helvetica, sans-serif; font-size: 12px;
+	line-height	: 1.4em; 
+	padding 	: 0;
+	margin  	: 1.1em 0 1.1em 0;
+}
+body {font-family: Verdana, Arial, Tahoma, Helvetica, sans-serif; font-size: 12px;}
+A:link {color: #314A8C; font-size : 12px; text-decoration: none;}
+A:visited {text-decoration: none; color: #314A8C; font-size : 12px;}
+A:hover  {text-decoration: underline; color: #FCBF04; font-size : 12px;}
+A:active {text-decoration: none; color: #314A8C; font-size : 12px;}
+A.nav:link {color: #99FF66; font-size : 12px; text-decoration: none; font-weight: bold}
+A.nav:visited {text-decoration: none; color: #99FF66; font-size : 12px; font-weight: bold}
+A.nav:hover  {text-decoration: underline; color: #99FF66; font-size : 12px; font-weight: bold}
+A.nav:active {text-decoration: none; color: #99FF66; font-size : 12px; font-weight: bold}
+A.nav1:link {color: #99FF66; font-size : 11px; text-decoration: none;}
+A.nav1:visited {text-decoration: none; color: #99FF66; font-size : 11px;}
+A.nav1:hover  {text-decoration: underline; color: #99FF66; font-size : 11px;}
+A.nav1:active {text-decoration: none; color: #99FF66; font-size : 11px;}
+A.white:link {color: #ffffff; font-size : 12px; text-decoration: none; font-weight: bold}
+A.white:visited {text-decoration: none; color: #ffffff; font-size : 12px; font-weight: bold}
+A.white:hover  {text-decoration: underline; color: #99FF66; font-size : 12px; font-weight: bold}
+A.white:active {text-decoration: none; color: #ffffff; font-size : 12px; font-weight: bold}
+A.black:link {color: #000000; font-size : 12px; text-decoration: none; font-weight: bold}
+A.black:visited {text-decoration: none; color: #000000; font-size : 12px; font-weight: bold}
+A.black:hover  {text-decoration: underline; color: #000000; font-size : 12px; font-weight: bold}
+A.black:active {text-decoration: none; color: #000000; font-size : 12px; font-weight: bold}
+A.small:link {color: #314A8C; font-size : 11px; text-decoration: none; font-weight: bold}
+A.small:visited {text-decoration: none; color: #314A8C; font-size : 11px; font-weight: bold}
+A.small:hover  {text-decoration: underline; color: #FCBF04; font-size : 11px; font-weight: bold}
+A.small:active {text-decoration: none; color: #314A8C; font-size : 11px; font-weight: bold}
+A.green:link {color: #009933; font-size : 12px; text-decoration: none; font-weight: bold}
+A.green:visited {text-decoration: none; color: #009933; font-size : 12px; font-weight: bold}
+A.green:hover  {text-decoration: underline; color: #FCBF04; font-size : 12px; font-weight: bold}
+A.green:active {text-decoration: none; color: #009933; font-size : 12px; font-weight: bold}
+
+.style1 {font-size: 18px; color: #314A8C; font-weight: bold}
+.style2 {color: #314A8C; font-weight: bold}
+.style3 {color:#ffffff}
+.style4 {font-size: 12px;}
+.style5 {font-size: 12px;}
+.style6 {color:#FFFFFF; font-size: 13px; font-weight: bold;}
+.style7 {color:#000000; font-size: 13px; font-weight: bold;}
+.green {color: #99FF66; font-size : 11px}
+.footer {font-size:11px; font-weight: bold}
+
+.sub {font-size: 14px}
