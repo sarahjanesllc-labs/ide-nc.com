@@ -2,10 +2,21 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    border-bottom: 5px solid $grey-color-light;
+    min-height: 280px;
+    background: url('/images/header-bg.png');
 
+    .logo {
+          padding-top: 35px;
+          text-align: center;
+    }
+
+    .slogan {
+            text-align: center;
+            font-size: $small-font-size;
+            color: $grey-color-light;
+            padding-top: 45px;
+    }
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -86,6 +97,12 @@
     }
 }
 
+/**
+ * Sidebar
+ */
+.sidebar-nav {
+   float: left;
+}
 
 
 /**
@@ -93,7 +110,11 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
+    background-color: $footer-background-color;
     padding: $spacing-unit 0;
+    min-height: 280px;
+    text-align: center;
+    color: $grey-color;
 }
 
 .footer-heading {

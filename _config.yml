@@ -2,6 +2,10 @@
 title: Innovative Design Engineering
 email: info@ide-nc.com
 baseurl: "" # the subpath of your site, e.g. /blog/
+description: >
+  Innovative Design Engineering (IDE) is an engineering resource company.
+  Located in Raleigh, NC, we provide engineering services for new product
+  design and development.
 url: "http://ide-nc.com" # the base hostname & protocol for your site
 
 # Build settings
