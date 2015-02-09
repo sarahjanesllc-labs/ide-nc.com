@@ -19,8 +19,6 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
-    background-image: url('/images/grey.png');
     -webkit-text-size-adjust: 100%;
 }
 
@@ -161,6 +159,7 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+    background-color: #ffffff;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
